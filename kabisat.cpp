@@ -2,7 +2,7 @@
 
 int main()
 {
- int tahun;
+ int tahun;//tahun
     printf ("Menghitung tahun kabisat \n\n");
     printf("Masukkan Tahun: ");
     scanf("%i", &tahun);
